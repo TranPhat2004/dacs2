@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="java-socket-chat-master/src"/>
+	<classpathentry kind="lib" path="java-socket-chat-master/release_login.jar"/>
+	<classpathentry kind="lib" path="java-socket-chat-master/release_server.jar"/>
+	<classpathentry kind="lib" path="java-socket-chat-master/temp/Converter.jar"/>
+	<classpathentry kind="output" path="java-socket-chat-master/bin"/>
+</classpath>
