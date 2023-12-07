@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="temp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/java-socket-chat-master/temp/Converter.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-socket-chat-master/temp/cpu-z_1.86-en.zip!/" />
+      <root url="jar://$PROJECT_DIR$/java-socket-chat-master/temp/unikey43RC4-180714-win64.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

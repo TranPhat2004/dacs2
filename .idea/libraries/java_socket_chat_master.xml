@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="java-socket-chat-master">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/java-socket-chat-master/release_server.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-socket-chat-master/release_login.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
